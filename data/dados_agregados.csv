@@ -1,0 +1,1210 @@
+Municipio,Classificacao,Sexo,StatusNotificacao,Quantidade,DataEncerramento_Nula,DataObito_Nula
+AFONSO CLAUDIO,Confirmados,F,Em Aberto,2,2,2
+AFONSO CLAUDIO,Confirmados,F,Encerrado,5126,0,5086
+AFONSO CLAUDIO,Confirmados,I,Encerrado,1,0,1
+AFONSO CLAUDIO,Confirmados,M,Em Aberto,1,1,1
+AFONSO CLAUDIO,Confirmados,M,Encerrado,3846,0,3789
+AFONSO CLAUDIO,Descartados,F,Em Aberto,10,10,10
+AFONSO CLAUDIO,Descartados,F,Encerrado,12340,0,12301
+AFONSO CLAUDIO,Descartados,I,Encerrado,2,0,2
+AFONSO CLAUDIO,Descartados,M,Em Aberto,4,4,4
+AFONSO CLAUDIO,Descartados,M,Encerrado,8607,0,8569
+AFONSO CLAUDIO,Suspeito,F,Em Aberto,14,14,14
+AFONSO CLAUDIO,Suspeito,F,Encerrado,189,0,189
+AFONSO CLAUDIO,Suspeito,M,Em Aberto,6,6,6
+AFONSO CLAUDIO,Suspeito,M,Encerrado,185,0,185
+AFONSO CLAUDIO,Síndrome Gripal não Especificada,F,Encerrado,147,0,147
+AFONSO CLAUDIO,Síndrome Gripal não Especificada,M,Encerrado,96,0,95
+AGUA DOCE DO NORTE,Confirmados,F,Em Aberto,78,78,78
+AGUA DOCE DO NORTE,Confirmados,F,Encerrado,1651,0,1622
+AGUA DOCE DO NORTE,Confirmados,I,Encerrado,1,0,1
+AGUA DOCE DO NORTE,Confirmados,M,Em Aberto,51,51,51
+AGUA DOCE DO NORTE,Confirmados,M,Encerrado,1297,0,1270
+AGUA DOCE DO NORTE,Descartados,F,Em Aberto,22,22,22
+AGUA DOCE DO NORTE,Descartados,F,Encerrado,3471,0,3455
+AGUA DOCE DO NORTE,Descartados,M,Em Aberto,17,17,17
+AGUA DOCE DO NORTE,Descartados,M,Encerrado,2633,0,2623
+AGUA DOCE DO NORTE,Suspeito,F,Em Aberto,63,63,62
+AGUA DOCE DO NORTE,Suspeito,F,Encerrado,394,0,392
+AGUA DOCE DO NORTE,Suspeito,M,Em Aberto,43,43,43
+AGUA DOCE DO NORTE,Suspeito,M,Encerrado,315,0,314
+AGUA DOCE DO NORTE,Síndrome Gripal não Especificada,F,Em Aberto,1,1,1
+AGUA DOCE DO NORTE,Síndrome Gripal não Especificada,F,Encerrado,34,0,34
+AGUA DOCE DO NORTE,Síndrome Gripal não Especificada,M,Encerrado,13,0,13
+AGUIA BRANCA,Confirmados,F,Encerrado,2361,0,2332
+AGUIA BRANCA,Confirmados,I,Encerrado,1,0,1
+AGUIA BRANCA,Confirmados,M,Em Aberto,1,1,1
+AGUIA BRANCA,Confirmados,M,Encerrado,1964,0,1924
+AGUIA BRANCA,Descartados,F,Encerrado,3913,0,3908
+AGUIA BRANCA,Descartados,M,Em Aberto,1,1,1
+AGUIA BRANCA,Descartados,M,Encerrado,2948,0,2939
+AGUIA BRANCA,Suspeito,F,Em Aberto,5,5,5
+AGUIA BRANCA,Suspeito,F,Encerrado,30,0,29
+AGUIA BRANCA,Suspeito,M,Em Aberto,5,5,5
+AGUIA BRANCA,Suspeito,M,Encerrado,40,0,40
+AGUIA BRANCA,Síndrome Gripal não Especificada,F,Encerrado,37,0,37
+AGUIA BRANCA,Síndrome Gripal não Especificada,M,Encerrado,32,0,32
+ALEGRE,Confirmados,F,Em Aberto,8,8,8
+ALEGRE,Confirmados,F,Encerrado,5844,0,5789
+ALEGRE,Confirmados,M,Em Aberto,4,4,4
+ALEGRE,Confirmados,M,Encerrado,4137,0,4075
+ALEGRE,Descartados,F,Em Aberto,30,30,30
+ALEGRE,Descartados,F,Encerrado,14374,0,14352
+ALEGRE,Descartados,I,Encerrado,2,0,2
+ALEGRE,Descartados,M,Em Aberto,30,30,30
+ALEGRE,Descartados,M,Encerrado,9858,0,9839
+ALEGRE,Suspeito,F,Em Aberto,4,4,4
+ALEGRE,Suspeito,M,Em Aberto,3,3,3
+ALEGRE,Síndrome Gripal não Especificada,F,Encerrado,11,0,11
+ALEGRE,Síndrome Gripal não Especificada,M,Encerrado,12,0,12
+ALFREDO CHAVES,Confirmados,F,Em Aberto,7,7,7
+ALFREDO CHAVES,Confirmados,F,Encerrado,3434,0,3411
+ALFREDO CHAVES,Confirmados,I,Encerrado,1,0,1
+ALFREDO CHAVES,Confirmados,M,Em Aberto,7,7,7
+ALFREDO CHAVES,Confirmados,M,Encerrado,2564,0,2535
+ALFREDO CHAVES,Descartados,F,Em Aberto,14,14,14
+ALFREDO CHAVES,Descartados,F,Encerrado,6369,0,6356
+ALFREDO CHAVES,Descartados,M,Em Aberto,11,11,11
+ALFREDO CHAVES,Descartados,M,Encerrado,4496,0,4482
+ALFREDO CHAVES,Suspeito,F,Em Aberto,37,37,37
+ALFREDO CHAVES,Suspeito,F,Encerrado,120,0,120
+ALFREDO CHAVES,Suspeito,M,Em Aberto,24,24,24
+ALFREDO CHAVES,Suspeito,M,Encerrado,120,0,120
+ALFREDO CHAVES,Síndrome Gripal não Especificada,F,Encerrado,148,0,147
+ALFREDO CHAVES,Síndrome Gripal não Especificada,M,Encerrado,116,0,116
+ALTO RIO NOVO,Confirmados,F,Em Aberto,8,8,8
+ALTO RIO NOVO,Confirmados,F,Encerrado,1013,0,1000
+ALTO RIO NOVO,Confirmados,M,Em Aberto,4,4,4
+ALTO RIO NOVO,Confirmados,M,Encerrado,764,0,747
+ALTO RIO NOVO,Descartados,F,Em Aberto,7,7,7
+ALTO RIO NOVO,Descartados,F,Encerrado,1467,0,1464
+ALTO RIO NOVO,Descartados,I,Encerrado,1,0,1
+ALTO RIO NOVO,Descartados,M,Em Aberto,11,11,11
+ALTO RIO NOVO,Descartados,M,Encerrado,1034,0,1033
+ALTO RIO NOVO,Suspeito,F,Em Aberto,5,5,5
+ALTO RIO NOVO,Suspeito,F,Encerrado,11,0,11
+ALTO RIO NOVO,Suspeito,M,Em Aberto,5,5,5
+ALTO RIO NOVO,Suspeito,M,Encerrado,4,0,4
+ALTO RIO NOVO,Síndrome Gripal não Especificada,F,Encerrado,7,0,7
+ALTO RIO NOVO,Síndrome Gripal não Especificada,M,Encerrado,5,0,5
+ANCHIETA,Confirmados,F,Em Aberto,4,4,4
+ANCHIETA,Confirmados,F,Encerrado,7088,0,7019
+ANCHIETA,Confirmados,I,Encerrado,1,0,1
+ANCHIETA,Confirmados,M,Em Aberto,8,8,7
+ANCHIETA,Confirmados,M,Encerrado,5731,0,5664
+ANCHIETA,Descartados,F,Em Aberto,9,9,9
+ANCHIETA,Descartados,F,Encerrado,16610,0,16586
+ANCHIETA,Descartados,M,Em Aberto,6,6,6
+ANCHIETA,Descartados,M,Encerrado,18519,0,18486
+ANCHIETA,Suspeito,F,Em Aberto,48,48,48
+ANCHIETA,Suspeito,F,Encerrado,1044,0,1044
+ANCHIETA,Suspeito,M,Em Aberto,25,25,25
+ANCHIETA,Suspeito,M,Encerrado,1009,0,1009
+ANCHIETA,Síndrome Gripal não Especificada,F,Em Aberto,2,2,2
+ANCHIETA,Síndrome Gripal não Especificada,F,Encerrado,456,0,456
+ANCHIETA,Síndrome Gripal não Especificada,M,Em Aberto,3,3,3
+ANCHIETA,Síndrome Gripal não Especificada,M,Encerrado,419,0,419
+APIACA,Confirmados,F,Em Aberto,25,25,25
+APIACA,Confirmados,F,Encerrado,1607,0,1591
+APIACA,Confirmados,M,Em Aberto,18,18,18
+APIACA,Confirmados,M,Encerrado,1171,0,1143
+APIACA,Descartados,F,Em Aberto,223,223,223
+APIACA,Descartados,F,Encerrado,2942,0,2938
+APIACA,Descartados,I,Encerrado,1,0,1
+APIACA,Descartados,M,Em Aberto,146,146,146
+APIACA,Descartados,M,Encerrado,2313,0,2305
+APIACA,Suspeito,F,Em Aberto,39,39,39
+APIACA,Suspeito,F,Encerrado,24,0,24
+APIACA,Suspeito,M,Em Aberto,27,27,27
+APIACA,Suspeito,M,Encerrado,13,0,13
+APIACA,Síndrome Gripal não Especificada,F,Em Aberto,4,4,4
+APIACA,Síndrome Gripal não Especificada,F,Encerrado,8,0,8
+APIACA,Síndrome Gripal não Especificada,M,Em Aberto,1,1,1
+APIACA,Síndrome Gripal não Especificada,M,Encerrado,4,0,4
+ARACRUZ,Confirmados,F,Em Aberto,1437,1437,1437
+ARACRUZ,Confirmados,F,Encerrado,21916,0,21772
+ARACRUZ,Confirmados,I,Encerrado,7,0,7
+ARACRUZ,Confirmados,M,Em Aberto,1274,1274,1274
+ARACRUZ,Confirmados,M,Encerrado,18128,0,17970
+ARACRUZ,Descartados,F,Em Aberto,88,88,87
+ARACRUZ,Descartados,F,Encerrado,54193,0,54154
+ARACRUZ,Descartados,I,Encerrado,42,0,42
+ARACRUZ,Descartados,M,Em Aberto,98,98,98
+ARACRUZ,Descartados,M,Encerrado,50107,0,50050
+ARACRUZ,Suspeito,F,Em Aberto,1652,1652,1652
+ARACRUZ,Suspeito,F,Encerrado,344,0,344
+ARACRUZ,Suspeito,I,Em Aberto,1,1,1
+ARACRUZ,Suspeito,M,Em Aberto,1611,1611,1610
+ARACRUZ,Suspeito,M,Encerrado,383,0,383
+ARACRUZ,Síndrome Gripal não Especificada,F,Em Aberto,8,8,8
+ARACRUZ,Síndrome Gripal não Especificada,F,Encerrado,298,0,298
+ARACRUZ,Síndrome Gripal não Especificada,M,Em Aberto,5,5,5
+ARACRUZ,Síndrome Gripal não Especificada,M,Encerrado,276,0,276
+ATILIO VIVACQUA,Confirmados,F,Em Aberto,9,9,9
+ATILIO VIVACQUA,Confirmados,F,Encerrado,2028,0,2010
+ATILIO VIVACQUA,Confirmados,I,Encerrado,1,0,1
+ATILIO VIVACQUA,Confirmados,M,Em Aberto,2,2,2
+ATILIO VIVACQUA,Confirmados,M,Encerrado,1543,0,1518
+ATILIO VIVACQUA,Descartados,F,Em Aberto,18,18,18
+ATILIO VIVACQUA,Descartados,F,Encerrado,5682,0,5665
+ATILIO VIVACQUA,Descartados,M,Em Aberto,11,11,11
+ATILIO VIVACQUA,Descartados,M,Encerrado,3968,0,3955
+ATILIO VIVACQUA,Suspeito,F,Em Aberto,4,4,4
+ATILIO VIVACQUA,Suspeito,F,Encerrado,1,0,1
+ATILIO VIVACQUA,Suspeito,M,Em Aberto,4,4,4
+ATILIO VIVACQUA,Suspeito,M,Encerrado,1,0,0
+ATILIO VIVACQUA,Síndrome Gripal não Especificada,F,Encerrado,42,0,41
+ATILIO VIVACQUA,Síndrome Gripal não Especificada,M,Em Aberto,1,1,1
+ATILIO VIVACQUA,Síndrome Gripal não Especificada,M,Encerrado,40,0,40
+BAIXO GUANDU,Confirmados,F,Em Aberto,1,1,1
+BAIXO GUANDU,Confirmados,F,Encerrado,6621,0,6564
+BAIXO GUANDU,Confirmados,M,Em Aberto,1,1,1
+BAIXO GUANDU,Confirmados,M,Encerrado,5140,0,5081
+BAIXO GUANDU,Descartados,F,Em Aberto,2,2,2
+BAIXO GUANDU,Descartados,F,Encerrado,14003,0,13985
+BAIXO GUANDU,Descartados,I,Encerrado,5,0,5
+BAIXO GUANDU,Descartados,M,Encerrado,12983,0,12967
+BAIXO GUANDU,Suspeito,F,Encerrado,74,0,74
+BAIXO GUANDU,Suspeito,M,Encerrado,46,0,46
+BAIXO GUANDU,Síndrome Gripal não Especificada,F,Encerrado,244,0,244
+BAIXO GUANDU,Síndrome Gripal não Especificada,M,Encerrado,208,0,208
+BARRA DE SAO FRANCISCO,Confirmados,F,Em Aberto,375,375,375
+BARRA DE SAO FRANCISCO,Confirmados,F,Encerrado,7288,0,7147
+BARRA DE SAO FRANCISCO,Confirmados,I,Encerrado,3,0,3
+BARRA DE SAO FRANCISCO,Confirmados,M,Em Aberto,229,229,229
+BARRA DE SAO FRANCISCO,Confirmados,M,Encerrado,5836,0,5694
+BARRA DE SAO FRANCISCO,Descartados,F,Em Aberto,451,451,451
+BARRA DE SAO FRANCISCO,Descartados,F,Encerrado,10359,0,10329
+BARRA DE SAO FRANCISCO,Descartados,I,Encerrado,2,0,2
+BARRA DE SAO FRANCISCO,Descartados,M,Em Aberto,286,286,285
+BARRA DE SAO FRANCISCO,Descartados,M,Encerrado,7858,0,7815
+BARRA DE SAO FRANCISCO,Suspeito,F,Em Aberto,422,422,422
+BARRA DE SAO FRANCISCO,Suspeito,F,Encerrado,4728,0,4725
+BARRA DE SAO FRANCISCO,Suspeito,I,Em Aberto,1,1,1
+BARRA DE SAO FRANCISCO,Suspeito,I,Encerrado,2,0,2
+BARRA DE SAO FRANCISCO,Suspeito,M,Em Aberto,301,301,301
+BARRA DE SAO FRANCISCO,Suspeito,M,Encerrado,3543,0,3539
+BARRA DE SAO FRANCISCO,Síndrome Gripal não Especificada,F,Em Aberto,66,66,66
+BARRA DE SAO FRANCISCO,Síndrome Gripal não Especificada,F,Encerrado,4247,0,4247
+BARRA DE SAO FRANCISCO,Síndrome Gripal não Especificada,M,Em Aberto,59,59,59
+BARRA DE SAO FRANCISCO,Síndrome Gripal não Especificada,M,Encerrado,3113,0,3112
+BOA ESPERANCA,Confirmados,F,Em Aberto,130,130,129
+BOA ESPERANCA,Confirmados,F,Encerrado,3038,0,3016
+BOA ESPERANCA,Confirmados,M,Em Aberto,74,74,74
+BOA ESPERANCA,Confirmados,M,Encerrado,2405,0,2364
+BOA ESPERANCA,Descartados,F,Em Aberto,486,486,485
+BOA ESPERANCA,Descartados,F,Encerrado,7593,0,7580
+BOA ESPERANCA,Descartados,I,Encerrado,1,0,1
+BOA ESPERANCA,Descartados,M,Em Aberto,377,377,376
+BOA ESPERANCA,Descartados,M,Encerrado,5345,0,5334
+BOA ESPERANCA,Suspeito,F,Em Aberto,243,243,243
+BOA ESPERANCA,Suspeito,F,Encerrado,26,0,26
+BOA ESPERANCA,Suspeito,M,Em Aberto,184,184,184
+BOA ESPERANCA,Suspeito,M,Encerrado,28,0,28
+BOA ESPERANCA,Síndrome Gripal não Especificada,F,Em Aberto,1,1,1
+BOA ESPERANCA,Síndrome Gripal não Especificada,F,Encerrado,5,0,3
+BOA ESPERANCA,Síndrome Gripal não Especificada,M,Em Aberto,1,1,1
+BOA ESPERANCA,Síndrome Gripal não Especificada,M,Encerrado,5,0,5
+BOM JESUS DO NORTE,Confirmados,F,Em Aberto,4,4,4
+BOM JESUS DO NORTE,Confirmados,F,Encerrado,1895,0,1878
+BOM JESUS DO NORTE,Confirmados,M,Encerrado,1290,0,1271
+BOM JESUS DO NORTE,Descartados,F,Em Aberto,1,1,1
+BOM JESUS DO NORTE,Descartados,F,Encerrado,3729,0,3723
+BOM JESUS DO NORTE,Descartados,M,Em Aberto,1,1,1
+BOM JESUS DO NORTE,Descartados,M,Encerrado,2506,0,2505
+BOM JESUS DO NORTE,Suspeito,F,Encerrado,1,0,1
+BOM JESUS DO NORTE,Suspeito,M,Em Aberto,1,1,1
+BOM JESUS DO NORTE,Síndrome Gripal não Especificada,F,Em Aberto,1,1,1
+BOM JESUS DO NORTE,Síndrome Gripal não Especificada,F,Encerrado,46,0,46
+BOM JESUS DO NORTE,Síndrome Gripal não Especificada,M,Encerrado,28,0,28
+BREJETUBA,Confirmados,F,Em Aberto,190,190,190
+BREJETUBA,Confirmados,F,Encerrado,1612,0,1597
+BREJETUBA,Confirmados,M,Em Aberto,121,121,121
+BREJETUBA,Confirmados,M,Encerrado,1320,0,1312
+BREJETUBA,Descartados,F,Em Aberto,95,95,95
+BREJETUBA,Descartados,F,Encerrado,3556,0,3548
+BREJETUBA,Descartados,M,Em Aberto,91,91,91
+BREJETUBA,Descartados,M,Encerrado,2701,0,2694
+BREJETUBA,Suspeito,F,Em Aberto,133,133,133
+BREJETUBA,Suspeito,F,Encerrado,14,0,14
+BREJETUBA,Suspeito,M,Em Aberto,115,115,115
+BREJETUBA,Suspeito,M,Encerrado,15,0,15
+BREJETUBA,Síndrome Gripal não Especificada,F,Em Aberto,2,2,2
+BREJETUBA,Síndrome Gripal não Especificada,F,Encerrado,15,0,15
+BREJETUBA,Síndrome Gripal não Especificada,M,Em Aberto,4,4,4
+BREJETUBA,Síndrome Gripal não Especificada,M,Encerrado,18,0,18
+CACHOEIRO DE ITAPEMIRIM,Confirmados,F,Em Aberto,2,2,2
+CACHOEIRO DE ITAPEMIRIM,Confirmados,F,Encerrado,36258,0,35920
+CACHOEIRO DE ITAPEMIRIM,Confirmados,I,Encerrado,3,0,3
+CACHOEIRO DE ITAPEMIRIM,Confirmados,M,Em Aberto,3,3,3
+CACHOEIRO DE ITAPEMIRIM,Confirmados,M,Encerrado,26898,0,26445
+CACHOEIRO DE ITAPEMIRIM,Descartados,F,Em Aberto,24,24,24
+CACHOEIRO DE ITAPEMIRIM,Descartados,F,Encerrado,87713,0,87521
+CACHOEIRO DE ITAPEMIRIM,Descartados,I,Encerrado,23,0,23
+CACHOEIRO DE ITAPEMIRIM,Descartados,M,Em Aberto,21,21,21
+CACHOEIRO DE ITAPEMIRIM,Descartados,M,Encerrado,56090,0,55842
+CACHOEIRO DE ITAPEMIRIM,Suspeito,F,Em Aberto,4,4,4
+CACHOEIRO DE ITAPEMIRIM,Suspeito,F,Encerrado,1661,0,1659
+CACHOEIRO DE ITAPEMIRIM,Suspeito,M,Em Aberto,3,3,3
+CACHOEIRO DE ITAPEMIRIM,Suspeito,M,Encerrado,1429,0,1426
+CACHOEIRO DE ITAPEMIRIM,Síndrome Gripal não Especificada,F,Em Aberto,1,1,1
+CACHOEIRO DE ITAPEMIRIM,Síndrome Gripal não Especificada,F,Encerrado,2248,0,2245
+CACHOEIRO DE ITAPEMIRIM,Síndrome Gripal não Especificada,M,Encerrado,1897,0,1893
+CARIACICA,Confirmados,F,Em Aberto,3379,3379,3379
+CARIACICA,Confirmados,F,Encerrado,57501,0,56733
+CARIACICA,Confirmados,I,Em Aberto,2,2,2
+CARIACICA,Confirmados,I,Encerrado,24,0,24
+CARIACICA,Confirmados,M,Em Aberto,2142,2142,2142
+CARIACICA,Confirmados,M,Encerrado,43287,0,42380
+CARIACICA,Descartados,F,Em Aberto,3036,3036,3033
+CARIACICA,Descartados,F,Encerrado,112996,0,112571
+CARIACICA,Descartados,I,Encerrado,35,0,34
+CARIACICA,Descartados,M,Em Aberto,2338,2338,2334
+CARIACICA,Descartados,M,Encerrado,93619,0,93139
+CARIACICA,Suspeito,F,Em Aberto,59567,59567,59566
+CARIACICA,Suspeito,F,Encerrado,9084,0,9076
+CARIACICA,Suspeito,I,Em Aberto,95,95,95
+CARIACICA,Suspeito,I,Encerrado,2,0,2
+CARIACICA,Suspeito,M,Em Aberto,43591,43591,43589
+CARIACICA,Suspeito,M,Encerrado,6563,0,6558
+CARIACICA,Síndrome Gripal não Especificada,F,Em Aberto,861,861,861
+CARIACICA,Síndrome Gripal não Especificada,F,Encerrado,8200,0,8194
+CARIACICA,Síndrome Gripal não Especificada,I,Encerrado,7,0,7
+CARIACICA,Síndrome Gripal não Especificada,M,Em Aberto,608,608,608
+CARIACICA,Síndrome Gripal não Especificada,M,Encerrado,5639,0,5633
+CASTELO,Confirmados,F,Em Aberto,41,41,41
+CASTELO,Confirmados,F,Encerrado,8929,0,8852
+CASTELO,Confirmados,M,Em Aberto,21,21,21
+CASTELO,Confirmados,M,Encerrado,6703,0,6619
+CASTELO,Descartados,F,Em Aberto,52,52,52
+CASTELO,Descartados,F,Encerrado,21330,0,21287
+CASTELO,Descartados,I,Encerrado,2,0,2
+CASTELO,Descartados,M,Em Aberto,22,22,22
+CASTELO,Descartados,M,Encerrado,14872,0,14833
+CASTELO,Suspeito,F,Em Aberto,56,56,56
+CASTELO,Suspeito,F,Encerrado,1566,0,1566
+CASTELO,Suspeito,M,Em Aberto,29,29,29
+CASTELO,Suspeito,M,Encerrado,1273,0,1273
+CASTELO,Síndrome Gripal não Especificada,F,Encerrado,245,0,245
+CASTELO,Síndrome Gripal não Especificada,M,Encerrado,212,0,212
+COLATINA,Confirmados,F,Em Aberto,25,25,25
+COLATINA,Confirmados,F,Encerrado,31791,0,31587
+COLATINA,Confirmados,I,Encerrado,5,0,5
+COLATINA,Confirmados,M,Em Aberto,25,25,25
+COLATINA,Confirmados,M,Encerrado,23706,0,23478
+COLATINA,Descartados,F,Em Aberto,16,16,16
+COLATINA,Descartados,F,Encerrado,59253,0,59209
+COLATINA,Descartados,I,Encerrado,3,0,3
+COLATINA,Descartados,M,Em Aberto,13,13,12
+COLATINA,Descartados,M,Encerrado,43672,0,43611
+COLATINA,Suspeito,F,Em Aberto,17,17,17
+COLATINA,Suspeito,F,Encerrado,3442,0,3439
+COLATINA,Suspeito,I,Encerrado,1,0,1
+COLATINA,Suspeito,M,Em Aberto,12,12,12
+COLATINA,Suspeito,M,Encerrado,2281,0,2280
+COLATINA,Síndrome Gripal não Especificada,F,Em Aberto,2,2,2
+COLATINA,Síndrome Gripal não Especificada,F,Encerrado,1023,0,1022
+COLATINA,Síndrome Gripal não Especificada,M,Encerrado,784,0,784
+CONCEICAO DA BARRA,Confirmados,F,Em Aberto,46,46,46
+CONCEICAO DA BARRA,Confirmados,F,Encerrado,4461,0,4413
+CONCEICAO DA BARRA,Confirmados,I,Encerrado,1,0,1
+CONCEICAO DA BARRA,Confirmados,M,Em Aberto,29,29,28
+CONCEICAO DA BARRA,Confirmados,M,Encerrado,3378,0,3337
+CONCEICAO DA BARRA,Descartados,F,Em Aberto,344,344,344
+CONCEICAO DA BARRA,Descartados,F,Encerrado,10152,0,10134
+CONCEICAO DA BARRA,Descartados,I,Encerrado,8,0,8
+CONCEICAO DA BARRA,Descartados,M,Em Aberto,205,205,205
+CONCEICAO DA BARRA,Descartados,M,Encerrado,6797,0,6778
+CONCEICAO DA BARRA,Suspeito,F,Em Aberto,47,47,47
+CONCEICAO DA BARRA,Suspeito,F,Encerrado,4,0,4
+CONCEICAO DA BARRA,Suspeito,M,Em Aberto,50,50,50
+CONCEICAO DA BARRA,Suspeito,M,Encerrado,3,0,1
+CONCEICAO DA BARRA,Síndrome Gripal não Especificada,F,Em Aberto,3,3,3
+CONCEICAO DA BARRA,Síndrome Gripal não Especificada,F,Encerrado,23,0,23
+CONCEICAO DA BARRA,Síndrome Gripal não Especificada,M,Em Aberto,1,1,1
+CONCEICAO DA BARRA,Síndrome Gripal não Especificada,M,Encerrado,18,0,17
+CONCEICAO DO CASTELO,Confirmados,F,Em Aberto,12,12,12
+CONCEICAO DO CASTELO,Confirmados,F,Encerrado,2057,0,2042
+CONCEICAO DO CASTELO,Confirmados,M,Em Aberto,9,9,9
+CONCEICAO DO CASTELO,Confirmados,M,Encerrado,1547,0,1527
+CONCEICAO DO CASTELO,Descartados,F,Em Aberto,66,66,66
+CONCEICAO DO CASTELO,Descartados,F,Encerrado,4553,0,4544
+CONCEICAO DO CASTELO,Descartados,M,Em Aberto,46,46,46
+CONCEICAO DO CASTELO,Descartados,M,Encerrado,3401,0,3393
+CONCEICAO DO CASTELO,Suspeito,F,Em Aberto,24,24,24
+CONCEICAO DO CASTELO,Suspeito,F,Encerrado,4,0,4
+CONCEICAO DO CASTELO,Suspeito,M,Em Aberto,19,19,19
+CONCEICAO DO CASTELO,Suspeito,M,Encerrado,4,0,4
+CONCEICAO DO CASTELO,Síndrome Gripal não Especificada,F,Encerrado,4,0,4
+CONCEICAO DO CASTELO,Síndrome Gripal não Especificada,M,Encerrado,3,0,3
+DIVINO DE SAO LOURENCO,Confirmados,F,Em Aberto,24,24,24
+DIVINO DE SAO LOURENCO,Confirmados,F,Encerrado,602,0,594
+DIVINO DE SAO LOURENCO,Confirmados,M,Em Aberto,13,13,13
+DIVINO DE SAO LOURENCO,Confirmados,M,Encerrado,425,0,417
+DIVINO DE SAO LOURENCO,Descartados,F,Em Aberto,14,14,14
+DIVINO DE SAO LOURENCO,Descartados,F,Encerrado,817,0,810
+DIVINO DE SAO LOURENCO,Descartados,M,Em Aberto,13,13,13
+DIVINO DE SAO LOURENCO,Descartados,M,Encerrado,662,0,659
+DIVINO DE SAO LOURENCO,Suspeito,F,Em Aberto,43,43,43
+DIVINO DE SAO LOURENCO,Suspeito,F,Encerrado,58,0,58
+DIVINO DE SAO LOURENCO,Suspeito,M,Em Aberto,40,40,40
+DIVINO DE SAO LOURENCO,Suspeito,M,Encerrado,63,0,63
+DIVINO DE SAO LOURENCO,Síndrome Gripal não Especificada,F,Em Aberto,17,17,17
+DIVINO DE SAO LOURENCO,Síndrome Gripal não Especificada,F,Encerrado,66,0,66
+DIVINO DE SAO LOURENCO,Síndrome Gripal não Especificada,M,Em Aberto,11,11,11
+DIVINO DE SAO LOURENCO,Síndrome Gripal não Especificada,M,Encerrado,72,0,72
+DOMINGOS MARTINS,Confirmados,F,Em Aberto,2,2,2
+DOMINGOS MARTINS,Confirmados,F,Encerrado,7449,0,7409
+DOMINGOS MARTINS,Confirmados,M,Encerrado,5611,0,5548
+DOMINGOS MARTINS,Descartados,F,Encerrado,17995,0,17971
+DOMINGOS MARTINS,Descartados,I,Encerrado,4,0,4
+DOMINGOS MARTINS,Descartados,M,Encerrado,12820,0,12793
+DOMINGOS MARTINS,Suspeito,F,Em Aberto,8,8,8
+DOMINGOS MARTINS,Suspeito,M,Em Aberto,10,10,10
+DOMINGOS MARTINS,Síndrome Gripal não Especificada,F,Em Aberto,2,2,2
+DOMINGOS MARTINS,Síndrome Gripal não Especificada,F,Encerrado,1623,0,1623
+DOMINGOS MARTINS,Síndrome Gripal não Especificada,M,Em Aberto,3,3,3
+DOMINGOS MARTINS,Síndrome Gripal não Especificada,M,Encerrado,1375,0,1375
+DORES DO RIO PRETO,Confirmados,F,Em Aberto,26,26,26
+DORES DO RIO PRETO,Confirmados,F,Encerrado,1077,0,1067
+DORES DO RIO PRETO,Confirmados,M,Em Aberto,15,15,15
+DORES DO RIO PRETO,Confirmados,M,Encerrado,751,0,744
+DORES DO RIO PRETO,Descartados,F,Em Aberto,194,194,193
+DORES DO RIO PRETO,Descartados,F,Encerrado,1256,0,1254
+DORES DO RIO PRETO,Descartados,M,Em Aberto,109,109,109
+DORES DO RIO PRETO,Descartados,M,Encerrado,919,0,917
+DORES DO RIO PRETO,Suspeito,F,Em Aberto,8,8,8
+DORES DO RIO PRETO,Suspeito,F,Encerrado,2,0,2
+DORES DO RIO PRETO,Suspeito,M,Em Aberto,4,4,4
+DORES DO RIO PRETO,Suspeito,M,Encerrado,1,0,1
+ECOPORANGA,Confirmados,F,Em Aberto,303,303,303
+ECOPORANGA,Confirmados,F,Encerrado,4334,0,4285
+ECOPORANGA,Confirmados,M,Em Aberto,203,203,203
+ECOPORANGA,Confirmados,M,Encerrado,3225,0,3174
+ECOPORANGA,Descartados,F,Em Aberto,225,225,225
+ECOPORANGA,Descartados,F,Encerrado,4317,0,4304
+ECOPORANGA,Descartados,I,Em Aberto,1,1,1
+ECOPORANGA,Descartados,M,Em Aberto,151,151,151
+ECOPORANGA,Descartados,M,Encerrado,2960,0,2950
+ECOPORANGA,Suspeito,F,Em Aberto,2744,2744,2744
+ECOPORANGA,Suspeito,F,Encerrado,1728,0,1728
+ECOPORANGA,Suspeito,I,Em Aberto,3,3,3
+ECOPORANGA,Suspeito,M,Em Aberto,1830,1830,1830
+ECOPORANGA,Suspeito,M,Encerrado,1252,0,1251
+ECOPORANGA,Síndrome Gripal não Especificada,F,Em Aberto,18,18,18
+ECOPORANGA,Síndrome Gripal não Especificada,F,Encerrado,36,0,35
+ECOPORANGA,Síndrome Gripal não Especificada,M,Em Aberto,10,10,10
+ECOPORANGA,Síndrome Gripal não Especificada,M,Encerrado,25,0,25
+FUNDAO,Confirmados,F,Em Aberto,29,29,29
+FUNDAO,Confirmados,F,Encerrado,4311,0,4274
+FUNDAO,Confirmados,I,Encerrado,5,0,5
+FUNDAO,Confirmados,M,Em Aberto,22,22,21
+FUNDAO,Confirmados,M,Encerrado,3491,0,3441
+FUNDAO,Descartados,F,Em Aberto,424,424,424
+FUNDAO,Descartados,F,Encerrado,10934,0,10915
+FUNDAO,Descartados,I,Encerrado,10,0,10
+FUNDAO,Descartados,M,Em Aberto,289,289,288
+FUNDAO,Descartados,M,Encerrado,8877,0,8852
+FUNDAO,Suspeito,F,Em Aberto,248,248,248
+FUNDAO,Suspeito,F,Encerrado,36,0,36
+FUNDAO,Suspeito,I,Em Aberto,1,1,1
+FUNDAO,Suspeito,M,Em Aberto,229,229,229
+FUNDAO,Suspeito,M,Encerrado,18,0,18
+FUNDAO,Síndrome Gripal não Especificada,F,Em Aberto,11,11,11
+FUNDAO,Síndrome Gripal não Especificada,F,Encerrado,39,0,38
+FUNDAO,Síndrome Gripal não Especificada,M,Em Aberto,10,10,10
+FUNDAO,Síndrome Gripal não Especificada,M,Encerrado,25,0,25
+GOVERNADOR LINDENBERG,Confirmados,F,Em Aberto,2,2,2
+GOVERNADOR LINDENBERG,Confirmados,F,Encerrado,3102,0,3083
+GOVERNADOR LINDENBERG,Confirmados,M,Encerrado,2544,0,2528
+GOVERNADOR LINDENBERG,Descartados,F,Encerrado,7197,0,7192
+GOVERNADOR LINDENBERG,Descartados,M,Em Aberto,1,1,1
+GOVERNADOR LINDENBERG,Descartados,M,Encerrado,5633,0,5629
+GOVERNADOR LINDENBERG,Suspeito,F,Em Aberto,14,14,14
+GOVERNADOR LINDENBERG,Suspeito,F,Encerrado,21,0,21
+GOVERNADOR LINDENBERG,Suspeito,M,Em Aberto,12,12,12
+GOVERNADOR LINDENBERG,Suspeito,M,Encerrado,17,0,17
+GOVERNADOR LINDENBERG,Síndrome Gripal não Especificada,F,Encerrado,500,0,500
+GOVERNADOR LINDENBERG,Síndrome Gripal não Especificada,M,Encerrado,521,0,521
+GUACUI,Confirmados,F,Em Aberto,59,59,59
+GUACUI,Confirmados,F,Encerrado,4495,0,4416
+GUACUI,Confirmados,I,Encerrado,1,0,1
+GUACUI,Confirmados,M,Em Aberto,33,33,33
+GUACUI,Confirmados,M,Encerrado,3087,0,3023
+GUACUI,Descartados,F,Em Aberto,59,59,59
+GUACUI,Descartados,F,Encerrado,7984,0,7964
+GUACUI,Descartados,I,Encerrado,2,0,2
+GUACUI,Descartados,M,Em Aberto,46,46,44
+GUACUI,Descartados,M,Encerrado,5140,0,5123
+GUACUI,Suspeito,F,Em Aberto,41,41,41
+GUACUI,Suspeito,F,Encerrado,30,0,30
+GUACUI,Suspeito,M,Em Aberto,43,43,43
+GUACUI,Suspeito,M,Encerrado,28,0,28
+GUACUI,Síndrome Gripal não Especificada,F,Em Aberto,1,1,1
+GUACUI,Síndrome Gripal não Especificada,F,Encerrado,560,0,560
+GUACUI,Síndrome Gripal não Especificada,M,Encerrado,376,0,375
+GUARAPARI,Confirmados,F,Em Aberto,61,61,61
+GUARAPARI,Confirmados,F,Encerrado,19919,0,19652
+GUARAPARI,Confirmados,I,Encerrado,1,0,1
+GUARAPARI,Confirmados,M,Em Aberto,41,41,41
+GUARAPARI,Confirmados,M,Encerrado,14930,0,14601
+GUARAPARI,Descartados,F,Em Aberto,506,506,506
+GUARAPARI,Descartados,F,Encerrado,39135,0,38995
+GUARAPARI,Descartados,I,Em Aberto,1,1,1
+GUARAPARI,Descartados,I,Encerrado,5,0,5
+GUARAPARI,Descartados,M,Em Aberto,537,537,537
+GUARAPARI,Descartados,M,Encerrado,32805,0,32650
+GUARAPARI,Suspeito,F,Em Aberto,2602,2602,2602
+GUARAPARI,Suspeito,F,Encerrado,2582,0,2582
+GUARAPARI,Suspeito,I,Em Aberto,3,3,3
+GUARAPARI,Suspeito,M,Em Aberto,2220,2220,2220
+GUARAPARI,Suspeito,M,Encerrado,2273,0,2273
+GUARAPARI,Síndrome Gripal não Especificada,F,Em Aberto,8,8,8
+GUARAPARI,Síndrome Gripal não Especificada,F,Encerrado,2005,0,1982
+GUARAPARI,Síndrome Gripal não Especificada,M,Em Aberto,11,11,11
+GUARAPARI,Síndrome Gripal não Especificada,M,Encerrado,1973,0,1948
+IBATIBA,Confirmados,F,Em Aberto,4,4,4
+IBATIBA,Confirmados,F,Encerrado,5003,0,4940
+IBATIBA,Confirmados,M,Em Aberto,1,1,1
+IBATIBA,Confirmados,M,Encerrado,3642,0,3576
+IBATIBA,Descartados,F,Encerrado,8096,0,8066
+IBATIBA,Descartados,I,Encerrado,1,0,1
+IBATIBA,Descartados,M,Encerrado,5451,0,5423
+IBATIBA,Suspeito,F,Em Aberto,9,9,9
+IBATIBA,Suspeito,F,Encerrado,7,0,7
+IBATIBA,Suspeito,M,Em Aberto,6,6,6
+IBATIBA,Suspeito,M,Encerrado,7,0,7
+IBATIBA,Síndrome Gripal não Especificada,F,Encerrado,321,0,321
+IBATIBA,Síndrome Gripal não Especificada,M,Encerrado,320,0,320
+IBIRACU,Confirmados,F,Em Aberto,84,84,84
+IBIRACU,Confirmados,F,Encerrado,3059,0,3037
+IBIRACU,Confirmados,M,Em Aberto,57,57,57
+IBIRACU,Confirmados,M,Encerrado,2290,0,2257
+IBIRACU,Descartados,F,Em Aberto,334,334,334
+IBIRACU,Descartados,F,Encerrado,7642,0,7634
+IBIRACU,Descartados,I,Encerrado,1,0,1
+IBIRACU,Descartados,M,Em Aberto,238,238,238
+IBIRACU,Descartados,M,Encerrado,5653,0,5642
+IBIRACU,Suspeito,F,Em Aberto,161,161,161
+IBIRACU,Suspeito,F,Encerrado,31,0,31
+IBIRACU,Suspeito,M,Em Aberto,150,150,150
+IBIRACU,Suspeito,M,Encerrado,23,0,23
+IBIRACU,Síndrome Gripal não Especificada,F,Em Aberto,1,1,1
+IBIRACU,Síndrome Gripal não Especificada,F,Encerrado,5,0,5
+IBIRACU,Síndrome Gripal não Especificada,M,Em Aberto,1,1,1
+IBIRACU,Síndrome Gripal não Especificada,M,Encerrado,4,0,4
+IBITIRAMA,Confirmados,F,Em Aberto,196,196,196
+IBITIRAMA,Confirmados,F,Encerrado,852,0,840
+IBITIRAMA,Confirmados,M,Em Aberto,136,136,136
+IBITIRAMA,Confirmados,M,Encerrado,676,0,666
+IBITIRAMA,Descartados,F,Em Aberto,39,39,39
+IBITIRAMA,Descartados,F,Encerrado,1410,0,1405
+IBITIRAMA,Descartados,M,Em Aberto,30,30,30
+IBITIRAMA,Descartados,M,Encerrado,1149,0,1136
+IBITIRAMA,Suspeito,F,Em Aberto,307,307,307
+IBITIRAMA,Suspeito,F,Encerrado,288,0,287
+IBITIRAMA,Suspeito,M,Em Aberto,250,250,250
+IBITIRAMA,Suspeito,M,Encerrado,233,0,232
+IBITIRAMA,Síndrome Gripal não Especificada,F,Em Aberto,2,2,2
+IBITIRAMA,Síndrome Gripal não Especificada,F,Encerrado,12,0,12
+IBITIRAMA,Síndrome Gripal não Especificada,M,Em Aberto,1,1,1
+IBITIRAMA,Síndrome Gripal não Especificada,M,Encerrado,5,0,5
+ICONHA,Confirmados,F,Em Aberto,5,5,5
+ICONHA,Confirmados,F,Encerrado,3621,0,3607
+ICONHA,Confirmados,M,Em Aberto,2,2,2
+ICONHA,Confirmados,M,Encerrado,2865,0,2847
+ICONHA,Descartados,F,Em Aberto,9,9,9
+ICONHA,Descartados,F,Encerrado,6568,0,6561
+ICONHA,Descartados,I,Encerrado,1,0,1
+ICONHA,Descartados,M,Em Aberto,7,7,7
+ICONHA,Descartados,M,Encerrado,5060,0,5045
+ICONHA,Suspeito,F,Em Aberto,3,3,3
+ICONHA,Suspeito,M,Em Aberto,4,4,4
+ICONHA,Síndrome Gripal não Especificada,F,Encerrado,7,0,7
+ICONHA,Síndrome Gripal não Especificada,M,Encerrado,8,0,8
+IRUPI,Confirmados,F,Em Aberto,11,11,11
+IRUPI,Confirmados,F,Encerrado,2064,0,2037
+IRUPI,Confirmados,M,Em Aberto,7,7,7
+IRUPI,Confirmados,M,Encerrado,1595,0,1562
+IRUPI,Descartados,F,Em Aberto,14,14,14
+IRUPI,Descartados,F,Encerrado,3975,0,3965
+IRUPI,Descartados,M,Em Aberto,21,21,21
+IRUPI,Descartados,M,Encerrado,2608,0,2598
+IRUPI,Suspeito,F,Em Aberto,37,37,37
+IRUPI,Suspeito,F,Encerrado,617,0,617
+IRUPI,Suspeito,M,Em Aberto,41,41,41
+IRUPI,Suspeito,M,Encerrado,532,0,532
+IRUPI,Síndrome Gripal não Especificada,F,Encerrado,11,0,11
+IRUPI,Síndrome Gripal não Especificada,M,Encerrado,2,0,2
+ITAGUACU,Confirmados,F,Encerrado,3778,0,3764
+ITAGUACU,Confirmados,M,Encerrado,2786,0,2764
+ITAGUACU,Descartados,F,Em Aberto,8,8,8
+ITAGUACU,Descartados,F,Encerrado,13052,0,13044
+ITAGUACU,Descartados,I,Encerrado,2,0,2
+ITAGUACU,Descartados,M,Em Aberto,4,4,4
+ITAGUACU,Descartados,M,Encerrado,9032,0,9020
+ITAGUACU,Suspeito,F,Em Aberto,5,5,5
+ITAGUACU,Suspeito,F,Encerrado,5,0,5
+ITAGUACU,Suspeito,M,Em Aberto,1,1,1
+ITAGUACU,Suspeito,M,Encerrado,2,0,2
+ITAGUACU,Síndrome Gripal não Especificada,F,Encerrado,175,0,174
+ITAGUACU,Síndrome Gripal não Especificada,M,Encerrado,167,0,167
+ITAPEMIRIM,Confirmados,F,Em Aberto,3,3,3
+ITAPEMIRIM,Confirmados,F,Encerrado,6512,0,6438
+ITAPEMIRIM,Confirmados,I,Encerrado,1,0,1
+ITAPEMIRIM,Confirmados,M,Em Aberto,2,2,2
+ITAPEMIRIM,Confirmados,M,Encerrado,4837,0,4728
+ITAPEMIRIM,Descartados,F,Em Aberto,5,5,5
+ITAPEMIRIM,Descartados,F,Encerrado,13465,0,13436
+ITAPEMIRIM,Descartados,I,Encerrado,2,0,2
+ITAPEMIRIM,Descartados,M,Em Aberto,3,3,3
+ITAPEMIRIM,Descartados,M,Encerrado,9635,0,9599
+ITAPEMIRIM,Suspeito,F,Em Aberto,13,13,13
+ITAPEMIRIM,Suspeito,F,Encerrado,5,0,5
+ITAPEMIRIM,Suspeito,M,Em Aberto,8,8,8
+ITAPEMIRIM,Suspeito,M,Encerrado,9,0,8
+ITAPEMIRIM,Síndrome Gripal não Especificada,F,Encerrado,13,0,13
+ITAPEMIRIM,Síndrome Gripal não Especificada,M,Encerrado,10,0,10
+ITARANA,Confirmados,F,Em Aberto,92,92,92
+ITARANA,Confirmados,F,Encerrado,2463,0,2452
+ITARANA,Confirmados,I,Encerrado,1,0,1
+ITARANA,Confirmados,M,Em Aberto,66,66,66
+ITARANA,Confirmados,M,Encerrado,1936,0,1916
+ITARANA,Descartados,F,Em Aberto,252,252,252
+ITARANA,Descartados,F,Encerrado,6805,0,6800
+ITARANA,Descartados,I,Encerrado,2,0,2
+ITARANA,Descartados,M,Em Aberto,246,246,246
+ITARANA,Descartados,M,Encerrado,4697,0,4689
+ITARANA,Suspeito,F,Em Aberto,207,207,207
+ITARANA,Suspeito,F,Encerrado,278,0,278
+ITARANA,Suspeito,M,Em Aberto,162,162,162
+ITARANA,Suspeito,M,Encerrado,175,0,175
+ITARANA,Síndrome Gripal não Especificada,F,Encerrado,9,0,9
+ITARANA,Síndrome Gripal não Especificada,M,Encerrado,8,0,7
+IUNA,Confirmados,F,Em Aberto,24,24,24
+IUNA,Confirmados,F,Encerrado,4299,0,4259
+IUNA,Confirmados,M,Em Aberto,13,13,13
+IUNA,Confirmados,M,Encerrado,2938,0,2877
+IUNA,Descartados,F,Em Aberto,46,46,46
+IUNA,Descartados,F,Encerrado,6614,0,6598
+IUNA,Descartados,I,Encerrado,2,0,2
+IUNA,Descartados,M,Em Aberto,39,39,39
+IUNA,Descartados,M,Encerrado,4313,0,4293
+IUNA,Suspeito,F,Em Aberto,20,20,20
+IUNA,Suspeito,F,Encerrado,1001,0,1001
+IUNA,Suspeito,M,Em Aberto,17,17,17
+IUNA,Suspeito,M,Encerrado,775,0,775
+IUNA,Síndrome Gripal não Especificada,F,Em Aberto,1,1,1
+IUNA,Síndrome Gripal não Especificada,F,Encerrado,278,0,278
+IUNA,Síndrome Gripal não Especificada,M,Encerrado,247,0,247
+JAGUARE,Confirmados,F,Em Aberto,17,17,17
+JAGUARE,Confirmados,F,Encerrado,5879,0,5849
+JAGUARE,Confirmados,M,Em Aberto,12,12,12
+JAGUARE,Confirmados,M,Encerrado,4410,0,4371
+JAGUARE,Descartados,F,Em Aberto,6,6,6
+JAGUARE,Descartados,F,Encerrado,12205,0,12182
+JAGUARE,Descartados,I,Encerrado,1,0,1
+JAGUARE,Descartados,M,Em Aberto,2,2,2
+JAGUARE,Descartados,M,Encerrado,7869,0,7841
+JAGUARE,Suspeito,F,Em Aberto,15,15,15
+JAGUARE,Suspeito,F,Encerrado,5,0,5
+JAGUARE,Suspeito,M,Em Aberto,7,7,7
+JAGUARE,Suspeito,M,Encerrado,5,0,5
+JAGUARE,Síndrome Gripal não Especificada,F,Em Aberto,1,1,1
+JAGUARE,Síndrome Gripal não Especificada,F,Encerrado,2449,0,2449
+JAGUARE,Síndrome Gripal não Especificada,M,Encerrado,1868,0,1866
+JERONIMO MONTEIRO,Confirmados,F,Em Aberto,208,208,208
+JERONIMO MONTEIRO,Confirmados,F,Encerrado,2897,0,2866
+JERONIMO MONTEIRO,Confirmados,M,Em Aberto,158,158,157
+JERONIMO MONTEIRO,Confirmados,M,Encerrado,2291,0,2263
+JERONIMO MONTEIRO,Descartados,F,Em Aberto,259,259,259
+JERONIMO MONTEIRO,Descartados,F,Encerrado,11309,0,11292
+JERONIMO MONTEIRO,Descartados,I,Em Aberto,2,2,2
+JERONIMO MONTEIRO,Descartados,I,Encerrado,1,0,1
+JERONIMO MONTEIRO,Descartados,M,Em Aberto,208,208,208
+JERONIMO MONTEIRO,Descartados,M,Encerrado,8098,0,8088
+JERONIMO MONTEIRO,Suspeito,F,Em Aberto,37,37,36
+JERONIMO MONTEIRO,Suspeito,F,Encerrado,22,0,22
+JERONIMO MONTEIRO,Suspeito,M,Em Aberto,27,27,27
+JERONIMO MONTEIRO,Suspeito,M,Encerrado,25,0,25
+JERONIMO MONTEIRO,Síndrome Gripal não Especificada,F,Em Aberto,12,12,12
+JERONIMO MONTEIRO,Síndrome Gripal não Especificada,F,Encerrado,113,0,113
+JERONIMO MONTEIRO,Síndrome Gripal não Especificada,M,Em Aberto,6,6,6
+JERONIMO MONTEIRO,Síndrome Gripal não Especificada,M,Encerrado,89,0,89
+JOAO NEIVA,Confirmados,F,Em Aberto,81,81,77
+JOAO NEIVA,Confirmados,F,Encerrado,3914,0,3886
+JOAO NEIVA,Confirmados,I,Encerrado,1,0,1
+JOAO NEIVA,Confirmados,M,Em Aberto,30,30,30
+JOAO NEIVA,Confirmados,M,Encerrado,3219,0,3185
+JOAO NEIVA,Descartados,F,Em Aberto,148,148,148
+JOAO NEIVA,Descartados,F,Encerrado,9700,0,9693
+JOAO NEIVA,Descartados,M,Em Aberto,112,112,112
+JOAO NEIVA,Descartados,M,Encerrado,8488,0,8483
+JOAO NEIVA,Suspeito,F,Em Aberto,21,21,21
+JOAO NEIVA,Suspeito,F,Encerrado,5,0,5
+JOAO NEIVA,Suspeito,M,Em Aberto,21,21,21
+JOAO NEIVA,Suspeito,M,Encerrado,1,0,1
+JOAO NEIVA,Síndrome Gripal não Especificada,F,Em Aberto,21,21,21
+JOAO NEIVA,Síndrome Gripal não Especificada,F,Encerrado,8,0,8
+JOAO NEIVA,Síndrome Gripal não Especificada,M,Em Aberto,15,15,15
+JOAO NEIVA,Síndrome Gripal não Especificada,M,Encerrado,9,0,9
+LARANJA DA TERRA,Confirmados,F,Em Aberto,4,4,4
+LARANJA DA TERRA,Confirmados,F,Encerrado,2242,0,2235
+LARANJA DA TERRA,Confirmados,M,Em Aberto,2,2,2
+LARANJA DA TERRA,Confirmados,M,Encerrado,1802,0,1787
+LARANJA DA TERRA,Descartados,F,Em Aberto,18,18,18
+LARANJA DA TERRA,Descartados,F,Encerrado,7042,0,7032
+LARANJA DA TERRA,Descartados,M,Em Aberto,18,18,18
+LARANJA DA TERRA,Descartados,M,Encerrado,5376,0,5363
+LARANJA DA TERRA,Suspeito,F,Em Aberto,3,3,3
+LARANJA DA TERRA,Suspeito,F,Encerrado,1,0,0
+LARANJA DA TERRA,Suspeito,M,Em Aberto,3,3,3
+LARANJA DA TERRA,Síndrome Gripal não Especificada,F,Encerrado,82,0,82
+LARANJA DA TERRA,Síndrome Gripal não Especificada,M,Encerrado,55,0,55
+LINHARES,Confirmados,F,Encerrado,37180,0,36948
+LINHARES,Confirmados,I,Encerrado,14,0,14
+LINHARES,Confirmados,M,Encerrado,28965,0,28665
+LINHARES,Descartados,F,Em Aberto,2,2,2
+LINHARES,Descartados,F,Encerrado,78976,0,78938
+LINHARES,Descartados,I,Encerrado,45,0,45
+LINHARES,Descartados,M,Em Aberto,6,6,6
+LINHARES,Descartados,M,Encerrado,59144,0,59107
+LINHARES,Suspeito,F,Em Aberto,3,3,3
+LINHARES,Suspeito,F,Encerrado,8660,0,8660
+LINHARES,Suspeito,I,Encerrado,5,0,5
+LINHARES,Suspeito,M,Em Aberto,6,6,6
+LINHARES,Suspeito,M,Encerrado,7973,0,7972
+LINHARES,Síndrome Gripal não Especificada,F,Encerrado,2034,0,2034
+LINHARES,Síndrome Gripal não Especificada,M,Encerrado,1781,0,1781
+MANTENOPOLIS,Confirmados,F,Em Aberto,2,2,2
+MANTENOPOLIS,Confirmados,F,Encerrado,1530,0,1495
+MANTENOPOLIS,Confirmados,M,Em Aberto,2,2,2
+MANTENOPOLIS,Confirmados,M,Encerrado,1137,0,1112
+MANTENOPOLIS,Descartados,F,Em Aberto,3,3,3
+MANTENOPOLIS,Descartados,F,Encerrado,3310,0,3301
+MANTENOPOLIS,Descartados,M,Em Aberto,6,6,6
+MANTENOPOLIS,Descartados,M,Encerrado,2270,0,2259
+MANTENOPOLIS,Suspeito,F,Em Aberto,6,6,6
+MANTENOPOLIS,Suspeito,F,Encerrado,146,0,146
+MANTENOPOLIS,Suspeito,M,Em Aberto,6,6,6
+MANTENOPOLIS,Suspeito,M,Encerrado,81,0,81
+MANTENOPOLIS,Síndrome Gripal não Especificada,F,Encerrado,11,0,11
+MANTENOPOLIS,Síndrome Gripal não Especificada,M,Encerrado,11,0,11
+MARATAIZES,Confirmados,F,Em Aberto,16,16,16
+MARATAIZES,Confirmados,F,Encerrado,8880,0,8778
+MARATAIZES,Confirmados,I,Encerrado,1,0,1
+MARATAIZES,Confirmados,M,Em Aberto,4,4,4
+MARATAIZES,Confirmados,M,Encerrado,6561,0,6398
+MARATAIZES,Descartados,F,Em Aberto,12,12,12
+MARATAIZES,Descartados,F,Encerrado,14822,0,14785
+MARATAIZES,Descartados,I,Encerrado,4,0,4
+MARATAIZES,Descartados,M,Em Aberto,10,10,10
+MARATAIZES,Descartados,M,Encerrado,10093,0,10050
+MARATAIZES,Suspeito,F,Em Aberto,26,26,26
+MARATAIZES,Suspeito,F,Encerrado,44,0,44
+MARATAIZES,Suspeito,M,Em Aberto,15,15,15
+MARATAIZES,Suspeito,M,Encerrado,32,0,32
+MARATAIZES,Síndrome Gripal não Especificada,F,Encerrado,554,0,554
+MARATAIZES,Síndrome Gripal não Especificada,M,Encerrado,394,0,394
+MARECHAL FLORIANO,Confirmados,F,Encerrado,4952,0,4917
+MARECHAL FLORIANO,Confirmados,M,Encerrado,3603,0,3563
+MARECHAL FLORIANO,Descartados,F,Encerrado,13906,0,13886
+MARECHAL FLORIANO,Descartados,I,Encerrado,2,0,2
+MARECHAL FLORIANO,Descartados,M,Encerrado,9545,0,9518
+MARECHAL FLORIANO,Suspeito,F,Em Aberto,8,8,8
+MARECHAL FLORIANO,Suspeito,F,Encerrado,1,0,1
+MARECHAL FLORIANO,Suspeito,M,Em Aberto,8,8,8
+MARECHAL FLORIANO,Síndrome Gripal não Especificada,F,Em Aberto,1,1,1
+MARECHAL FLORIANO,Síndrome Gripal não Especificada,F,Encerrado,12,0,12
+MARECHAL FLORIANO,Síndrome Gripal não Especificada,M,Em Aberto,1,1,1
+MARECHAL FLORIANO,Síndrome Gripal não Especificada,M,Encerrado,15,0,15
+MARILANDIA,Confirmados,F,Em Aberto,4,4,4
+MARILANDIA,Confirmados,F,Encerrado,3820,0,3807
+MARILANDIA,Confirmados,I,Encerrado,1,0,1
+MARILANDIA,Confirmados,M,Em Aberto,2,2,2
+MARILANDIA,Confirmados,M,Encerrado,2963,0,2937
+MARILANDIA,Descartados,F,Em Aberto,17,17,17
+MARILANDIA,Descartados,F,Encerrado,9750,0,9746
+MARILANDIA,Descartados,I,Encerrado,2,0,2
+MARILANDIA,Descartados,M,Em Aberto,18,18,18
+MARILANDIA,Descartados,M,Encerrado,7118,0,7114
+MARILANDIA,Suspeito,F,Em Aberto,3,3,3
+MARILANDIA,Suspeito,F,Encerrado,336,0,336
+MARILANDIA,Suspeito,M,Em Aberto,3,3,3
+MARILANDIA,Suspeito,M,Encerrado,321,0,321
+MARILANDIA,Síndrome Gripal não Especificada,F,Encerrado,5,0,5
+MARILANDIA,Síndrome Gripal não Especificada,M,Encerrado,4,0,4
+MIMOSO DO SUL,Confirmados,F,Em Aberto,56,56,56
+MIMOSO DO SUL,Confirmados,F,Encerrado,4345,0,4309
+MIMOSO DO SUL,Confirmados,M,Em Aberto,36,36,36
+MIMOSO DO SUL,Confirmados,M,Encerrado,3338,0,3291
+MIMOSO DO SUL,Descartados,F,Em Aberto,562,562,562
+MIMOSO DO SUL,Descartados,F,Encerrado,7008,0,6988
+MIMOSO DO SUL,Descartados,I,Encerrado,2,0,2
+MIMOSO DO SUL,Descartados,M,Em Aberto,360,360,360
+MIMOSO DO SUL,Descartados,M,Encerrado,4859,0,4838
+MIMOSO DO SUL,Suspeito,F,Em Aberto,438,438,438
+MIMOSO DO SUL,Suspeito,F,Encerrado,20,0,20
+MIMOSO DO SUL,Suspeito,M,Em Aberto,308,308,308
+MIMOSO DO SUL,Suspeito,M,Encerrado,21,0,21
+MIMOSO DO SUL,Síndrome Gripal não Especificada,F,Em Aberto,8,8,8
+MIMOSO DO SUL,Síndrome Gripal não Especificada,F,Encerrado,577,0,577
+MIMOSO DO SUL,Síndrome Gripal não Especificada,M,Em Aberto,11,11,11
+MIMOSO DO SUL,Síndrome Gripal não Especificada,M,Encerrado,460,0,460
+MONTANHA,Confirmados,F,Em Aberto,35,35,35
+MONTANHA,Confirmados,F,Encerrado,3590,0,3547
+MONTANHA,Confirmados,I,Encerrado,1,0,1
+MONTANHA,Confirmados,M,Em Aberto,10,10,10
+MONTANHA,Confirmados,M,Encerrado,2455,0,2413
+MONTANHA,Descartados,F,Em Aberto,12,12,12
+MONTANHA,Descartados,F,Encerrado,7154,0,7135
+MONTANHA,Descartados,M,Em Aberto,15,15,15
+MONTANHA,Descartados,M,Encerrado,4683,0,4672
+MONTANHA,Suspeito,F,Em Aberto,156,156,156
+MONTANHA,Suspeito,F,Encerrado,606,0,606
+MONTANHA,Suspeito,M,Em Aberto,131,131,131
+MONTANHA,Suspeito,M,Encerrado,471,0,471
+MONTANHA,Síndrome Gripal não Especificada,F,Encerrado,70,0,70
+MONTANHA,Síndrome Gripal não Especificada,M,Em Aberto,2,2,2
+MONTANHA,Síndrome Gripal não Especificada,M,Encerrado,55,0,55
+MUCURICI,Confirmados,F,Em Aberto,12,12,12
+MUCURICI,Confirmados,F,Encerrado,1036,0,1029
+MUCURICI,Confirmados,M,Em Aberto,5,5,5
+MUCURICI,Confirmados,M,Encerrado,779,0,773
+MUCURICI,Descartados,F,Em Aberto,53,53,53
+MUCURICI,Descartados,F,Encerrado,2930,0,2924
+MUCURICI,Descartados,M,Em Aberto,32,32,32
+MUCURICI,Descartados,M,Encerrado,2041,0,2035
+MUCURICI,Suspeito,F,Em Aberto,56,56,56
+MUCURICI,Suspeito,F,Encerrado,4,0,4
+MUCURICI,Suspeito,M,Em Aberto,31,31,31
+MUCURICI,Suspeito,M,Encerrado,8,0,8
+MUCURICI,Síndrome Gripal não Especificada,F,Encerrado,45,0,45
+MUCURICI,Síndrome Gripal não Especificada,M,Em Aberto,1,1,1
+MUCURICI,Síndrome Gripal não Especificada,M,Encerrado,30,0,30
+MUNIZ FREIRE,Confirmados,F,Em Aberto,173,173,173
+MUNIZ FREIRE,Confirmados,F,Encerrado,3187,0,3157
+MUNIZ FREIRE,Confirmados,M,Em Aberto,105,105,105
+MUNIZ FREIRE,Confirmados,M,Encerrado,2560,0,2526
+MUNIZ FREIRE,Descartados,F,Em Aberto,41,41,40
+MUNIZ FREIRE,Descartados,F,Encerrado,4616,0,4600
+MUNIZ FREIRE,Descartados,M,Em Aberto,54,54,54
+MUNIZ FREIRE,Descartados,M,Encerrado,3202,0,3190
+MUNIZ FREIRE,Suspeito,F,Em Aberto,50,50,50
+MUNIZ FREIRE,Suspeito,F,Encerrado,11,0,10
+MUNIZ FREIRE,Suspeito,M,Em Aberto,55,55,55
+MUNIZ FREIRE,Suspeito,M,Encerrado,3,0,3
+MUNIZ FREIRE,Síndrome Gripal não Especificada,F,Encerrado,7,0,7
+MUNIZ FREIRE,Síndrome Gripal não Especificada,M,Encerrado,3,0,3
+MUQUI,Confirmados,F,Encerrado,3614,0,3587
+MUQUI,Confirmados,M,Em Aberto,1,1,1
+MUQUI,Confirmados,M,Encerrado,2775,0,2733
+MUQUI,Descartados,F,Em Aberto,91,91,91
+MUQUI,Descartados,F,Encerrado,7477,0,7465
+MUQUI,Descartados,M,Em Aberto,43,43,42
+MUQUI,Descartados,M,Encerrado,5145,0,5129
+MUQUI,Suspeito,F,Em Aberto,2,2,2
+MUQUI,Suspeito,F,Encerrado,1,0,1
+MUQUI,Síndrome Gripal não Especificada,F,Em Aberto,6,6,6
+MUQUI,Síndrome Gripal não Especificada,F,Encerrado,2069,0,2068
+MUQUI,Síndrome Gripal não Especificada,M,Em Aberto,7,7,7
+MUQUI,Síndrome Gripal não Especificada,M,Encerrado,1582,0,1581
+NOVA VENECIA,Confirmados,F,Encerrado,10105,0,10027
+NOVA VENECIA,Confirmados,M,Encerrado,7765,0,7663
+NOVA VENECIA,Descartados,F,Encerrado,24234,0,24209
+NOVA VENECIA,Descartados,I,Encerrado,3,0,3
+NOVA VENECIA,Descartados,M,Encerrado,17485,0,17442
+NOVA VENECIA,Suspeito,F,Em Aberto,1,1,1
+NOVA VENECIA,Suspeito,F,Encerrado,8,0,8
+NOVA VENECIA,Suspeito,M,Encerrado,5,0,5
+NOVA VENECIA,Síndrome Gripal não Especificada,F,Em Aberto,2,2,2
+NOVA VENECIA,Síndrome Gripal não Especificada,F,Encerrado,540,0,540
+NOVA VENECIA,Síndrome Gripal não Especificada,M,Encerrado,546,0,546
+PANCAS,Confirmados,F,Em Aberto,2,2,2
+PANCAS,Confirmados,F,Encerrado,3625,0,3608
+PANCAS,Confirmados,M,Encerrado,2733,0,2711
+PANCAS,Descartados,F,Em Aberto,1,1,1
+PANCAS,Descartados,F,Encerrado,4001,0,3999
+PANCAS,Descartados,M,Encerrado,3107,0,3093
+PANCAS,Suspeito,F,Em Aberto,2,2,2
+PANCAS,Suspeito,F,Encerrado,50,0,50
+PANCAS,Suspeito,M,Em Aberto,1,1,1
+PANCAS,Suspeito,M,Encerrado,51,0,51
+PANCAS,Síndrome Gripal não Especificada,F,Encerrado,355,0,355
+PANCAS,Síndrome Gripal não Especificada,M,Encerrado,297,0,297
+PEDRO CANARIO,Confirmados,F,Em Aberto,3,3,3
+PEDRO CANARIO,Confirmados,F,Encerrado,4079,0,4055
+PEDRO CANARIO,Confirmados,M,Em Aberto,3,3,3
+PEDRO CANARIO,Confirmados,M,Encerrado,3056,0,3006
+PEDRO CANARIO,Descartados,F,Em Aberto,1,1,1
+PEDRO CANARIO,Descartados,F,Encerrado,14589,0,14573
+PEDRO CANARIO,Descartados,M,Encerrado,11307,0,11286
+PEDRO CANARIO,Suspeito,F,Em Aberto,13,13,13
+PEDRO CANARIO,Suspeito,F,Encerrado,3,0,3
+PEDRO CANARIO,Suspeito,M,Em Aberto,14,14,14
+PEDRO CANARIO,Suspeito,M,Encerrado,1,0,1
+PEDRO CANARIO,Síndrome Gripal não Especificada,F,Encerrado,274,0,274
+PEDRO CANARIO,Síndrome Gripal não Especificada,M,Encerrado,271,0,271
+PINHEIROS,Confirmados,F,Em Aberto,3,3,3
+PINHEIROS,Confirmados,F,Encerrado,5188,0,5132
+PINHEIROS,Confirmados,M,Em Aberto,2,2,2
+PINHEIROS,Confirmados,M,Encerrado,3776,0,3720
+PINHEIROS,Descartados,F,Em Aberto,2,2,2
+PINHEIROS,Descartados,F,Encerrado,14518,0,14491
+PINHEIROS,Descartados,I,Encerrado,2,0,2
+PINHEIROS,Descartados,M,Em Aberto,3,3,3
+PINHEIROS,Descartados,M,Encerrado,10838,0,10808
+PINHEIROS,Suspeito,F,Em Aberto,1,1,1
+PINHEIROS,Suspeito,F,Encerrado,4,0,4
+PINHEIROS,Suspeito,M,Em Aberto,1,1,1
+PINHEIROS,Suspeito,M,Encerrado,6,0,6
+PINHEIROS,Síndrome Gripal não Especificada,F,Encerrado,5,0,5
+PINHEIROS,Síndrome Gripal não Especificada,M,Encerrado,5,0,5
+PIUMA,Confirmados,F,Em Aberto,30,30,30
+PIUMA,Confirmados,F,Encerrado,4345,0,4293
+PIUMA,Confirmados,M,Em Aberto,18,18,18
+PIUMA,Confirmados,M,Encerrado,3456,0,3400
+PIUMA,Descartados,F,Em Aberto,18,18,18
+PIUMA,Descartados,F,Encerrado,9194,0,9168
+PIUMA,Descartados,I,Encerrado,5,0,4
+PIUMA,Descartados,M,Em Aberto,18,18,18
+PIUMA,Descartados,M,Encerrado,7995,0,7968
+PIUMA,Suspeito,F,Em Aberto,137,137,137
+PIUMA,Suspeito,F,Encerrado,1509,0,1508
+PIUMA,Suspeito,M,Em Aberto,87,87,87
+PIUMA,Suspeito,M,Encerrado,1243,0,1243
+PIUMA,Síndrome Gripal não Especificada,F,Em Aberto,1,1,1
+PIUMA,Síndrome Gripal não Especificada,F,Encerrado,979,0,978
+PIUMA,Síndrome Gripal não Especificada,M,Encerrado,831,0,831
+PONTO BELO,Confirmados,F,Em Aberto,17,17,17
+PONTO BELO,Confirmados,F,Encerrado,1565,0,1557
+PONTO BELO,Confirmados,M,Em Aberto,13,13,13
+PONTO BELO,Confirmados,M,Encerrado,1094,0,1083
+PONTO BELO,Descartados,F,Em Aberto,82,82,82
+PONTO BELO,Descartados,F,Encerrado,4108,0,4097
+PONTO BELO,Descartados,M,Em Aberto,61,61,61
+PONTO BELO,Descartados,M,Encerrado,2545,0,2538
+PONTO BELO,Suspeito,F,Em Aberto,257,257,257
+PONTO BELO,Suspeito,F,Encerrado,51,0,51
+PONTO BELO,Suspeito,M,Em Aberto,267,267,267
+PONTO BELO,Suspeito,M,Encerrado,51,0,51
+PONTO BELO,Síndrome Gripal não Especificada,F,Em Aberto,9,9,9
+PONTO BELO,Síndrome Gripal não Especificada,F,Encerrado,192,0,192
+PONTO BELO,Síndrome Gripal não Especificada,M,Em Aberto,9,9,9
+PONTO BELO,Síndrome Gripal não Especificada,M,Encerrado,129,0,129
+PRESIDENTE KENNEDY,Confirmados,F,Encerrado,2746,0,2716
+PRESIDENTE KENNEDY,Confirmados,M,Em Aberto,1,1,1
+PRESIDENTE KENNEDY,Confirmados,M,Encerrado,1920,0,1888
+PRESIDENTE KENNEDY,Descartados,F,Encerrado,6786,0,6750
+PRESIDENTE KENNEDY,Descartados,M,Em Aberto,1,1,1
+PRESIDENTE KENNEDY,Descartados,M,Encerrado,4422,0,4393
+PRESIDENTE KENNEDY,Suspeito,F,Em Aberto,3,3,3
+PRESIDENTE KENNEDY,Síndrome Gripal não Especificada,F,Encerrado,371,0,371
+PRESIDENTE KENNEDY,Síndrome Gripal não Especificada,I,Encerrado,1,0,1
+PRESIDENTE KENNEDY,Síndrome Gripal não Especificada,M,Encerrado,291,0,290
+RIO BANANAL,Confirmados,F,Encerrado,3745,0,3722
+RIO BANANAL,Confirmados,M,Encerrado,3162,0,3136
+RIO BANANAL,Descartados,F,Em Aberto,1,1,1
+RIO BANANAL,Descartados,F,Encerrado,6857,0,6839
+RIO BANANAL,Descartados,M,Em Aberto,6,6,6
+RIO BANANAL,Descartados,M,Encerrado,5636,0,5613
+RIO BANANAL,Suspeito,F,Encerrado,619,0,619
+RIO BANANAL,Suspeito,M,Encerrado,632,0,632
+RIO BANANAL,Síndrome Gripal não Especificada,F,Encerrado,356,0,356
+RIO BANANAL,Síndrome Gripal não Especificada,M,Encerrado,330,0,330
+RIO NOVO DO SUL,Confirmados,F,Em Aberto,4,4,4
+RIO NOVO DO SUL,Confirmados,F,Encerrado,2277,0,2256
+RIO NOVO DO SUL,Confirmados,M,Em Aberto,5,5,5
+RIO NOVO DO SUL,Confirmados,M,Encerrado,1742,0,1724
+RIO NOVO DO SUL,Descartados,F,Em Aberto,73,73,73
+RIO NOVO DO SUL,Descartados,F,Encerrado,4643,0,4636
+RIO NOVO DO SUL,Descartados,M,Em Aberto,44,44,43
+RIO NOVO DO SUL,Descartados,M,Encerrado,3587,0,3578
+RIO NOVO DO SUL,Suspeito,F,Em Aberto,22,22,22
+RIO NOVO DO SUL,Suspeito,F,Encerrado,217,0,217
+RIO NOVO DO SUL,Suspeito,M,Em Aberto,10,10,10
+RIO NOVO DO SUL,Suspeito,M,Encerrado,205,0,205
+RIO NOVO DO SUL,Síndrome Gripal não Especificada,F,Em Aberto,3,3,3
+RIO NOVO DO SUL,Síndrome Gripal não Especificada,F,Encerrado,19,0,19
+RIO NOVO DO SUL,Síndrome Gripal não Especificada,M,Em Aberto,1,1,1
+RIO NOVO DO SUL,Síndrome Gripal não Especificada,M,Encerrado,12,0,12
+SANTA LEOPOLDINA,Confirmados,F,Em Aberto,301,301,301
+SANTA LEOPOLDINA,Confirmados,F,Encerrado,1678,0,1662
+SANTA LEOPOLDINA,Confirmados,M,Em Aberto,236,236,236
+SANTA LEOPOLDINA,Confirmados,M,Encerrado,1455,0,1439
+SANTA LEOPOLDINA,Descartados,F,Em Aberto,537,537,537
+SANTA LEOPOLDINA,Descartados,F,Encerrado,4145,0,4138
+SANTA LEOPOLDINA,Descartados,M,Em Aberto,407,407,407
+SANTA LEOPOLDINA,Descartados,M,Encerrado,3215,0,3199
+SANTA LEOPOLDINA,Suspeito,F,Em Aberto,514,514,514
+SANTA LEOPOLDINA,Suspeito,F,Encerrado,36,0,36
+SANTA LEOPOLDINA,Suspeito,M,Em Aberto,416,416,416
+SANTA LEOPOLDINA,Suspeito,M,Encerrado,31,0,31
+SANTA LEOPOLDINA,Síndrome Gripal não Especificada,F,Em Aberto,1,1,1
+SANTA LEOPOLDINA,Síndrome Gripal não Especificada,F,Encerrado,15,0,15
+SANTA LEOPOLDINA,Síndrome Gripal não Especificada,M,Em Aberto,1,1,1
+SANTA LEOPOLDINA,Síndrome Gripal não Especificada,M,Encerrado,21,0,21
+SANTA MARIA DE JETIBA,Confirmados,F,Em Aberto,8,8,8
+SANTA MARIA DE JETIBA,Confirmados,F,Encerrado,8555,0,8521
+SANTA MARIA DE JETIBA,Confirmados,M,Em Aberto,3,3,3
+SANTA MARIA DE JETIBA,Confirmados,M,Encerrado,6626,0,6576
+SANTA MARIA DE JETIBA,Descartados,F,Em Aberto,18,18,18
+SANTA MARIA DE JETIBA,Descartados,F,Encerrado,17724,0,17704
+SANTA MARIA DE JETIBA,Descartados,M,Em Aberto,10,10,10
+SANTA MARIA DE JETIBA,Descartados,M,Encerrado,12999,0,12958
+SANTA MARIA DE JETIBA,Suspeito,F,Em Aberto,28,28,28
+SANTA MARIA DE JETIBA,Suspeito,F,Encerrado,868,0,868
+SANTA MARIA DE JETIBA,Suspeito,M,Em Aberto,28,28,28
+SANTA MARIA DE JETIBA,Suspeito,M,Encerrado,714,0,713
+SANTA MARIA DE JETIBA,Síndrome Gripal não Especificada,F,Em Aberto,3,3,3
+SANTA MARIA DE JETIBA,Síndrome Gripal não Especificada,F,Encerrado,400,0,400
+SANTA MARIA DE JETIBA,Síndrome Gripal não Especificada,M,Encerrado,334,0,334
+SANTA TERESA,Confirmados,F,Em Aberto,22,22,22
+SANTA TERESA,Confirmados,F,Encerrado,7023,0,6985
+SANTA TERESA,Confirmados,M,Em Aberto,15,15,15
+SANTA TERESA,Confirmados,M,Encerrado,5688,0,5641
+SANTA TERESA,Descartados,F,Em Aberto,70,70,70
+SANTA TERESA,Descartados,F,Encerrado,16295,0,16282
+SANTA TERESA,Descartados,I,Encerrado,4,0,4
+SANTA TERESA,Descartados,M,Em Aberto,52,52,52
+SANTA TERESA,Descartados,M,Encerrado,12232,0,12217
+SANTA TERESA,Suspeito,F,Em Aberto,11,11,11
+SANTA TERESA,Suspeito,F,Encerrado,3,0,3
+SANTA TERESA,Suspeito,M,Em Aberto,12,12,12
+SANTA TERESA,Suspeito,M,Encerrado,1,0,1
+SANTA TERESA,Síndrome Gripal não Especificada,F,Em Aberto,2,2,2
+SANTA TERESA,Síndrome Gripal não Especificada,F,Encerrado,6968,0,6968
+SANTA TERESA,Síndrome Gripal não Especificada,M,Em Aberto,1,1,1
+SANTA TERESA,Síndrome Gripal não Especificada,M,Encerrado,4859,0,4857
+SAO DOMINGOS DO NORTE,Confirmados,F,Em Aberto,21,21,21
+SAO DOMINGOS DO NORTE,Confirmados,F,Encerrado,2354,0,2343
+SAO DOMINGOS DO NORTE,Confirmados,M,Em Aberto,54,54,54
+SAO DOMINGOS DO NORTE,Confirmados,M,Encerrado,2141,0,2124
+SAO DOMINGOS DO NORTE,Descartados,F,Em Aberto,6,6,6
+SAO DOMINGOS DO NORTE,Descartados,F,Encerrado,4458,0,4457
+SAO DOMINGOS DO NORTE,Descartados,M,Em Aberto,12,12,12
+SAO DOMINGOS DO NORTE,Descartados,M,Encerrado,3844,0,3839
+SAO DOMINGOS DO NORTE,Suspeito,F,Em Aberto,7,7,7
+SAO DOMINGOS DO NORTE,Suspeito,F,Encerrado,7,0,7
+SAO DOMINGOS DO NORTE,Suspeito,M,Em Aberto,10,10,10
+SAO DOMINGOS DO NORTE,Suspeito,M,Encerrado,6,0,6
+SAO DOMINGOS DO NORTE,Síndrome Gripal não Especificada,F,Encerrado,5,0,5
+SAO DOMINGOS DO NORTE,Síndrome Gripal não Especificada,M,Encerrado,8,0,8
+SAO GABRIEL DA PALHA,Confirmados,F,Em Aberto,77,77,77
+SAO GABRIEL DA PALHA,Confirmados,F,Encerrado,11012,0,10969
+SAO GABRIEL DA PALHA,Confirmados,I,Encerrado,2,0,2
+SAO GABRIEL DA PALHA,Confirmados,M,Em Aberto,41,41,41
+SAO GABRIEL DA PALHA,Confirmados,M,Encerrado,8250,0,8192
+SAO GABRIEL DA PALHA,Descartados,F,Em Aberto,27,27,27
+SAO GABRIEL DA PALHA,Descartados,F,Encerrado,22066,0,22046
+SAO GABRIEL DA PALHA,Descartados,I,Encerrado,2,0,2
+SAO GABRIEL DA PALHA,Descartados,M,Em Aberto,13,13,13
+SAO GABRIEL DA PALHA,Descartados,M,Encerrado,15249,0,15232
+SAO GABRIEL DA PALHA,Suspeito,F,Em Aberto,115,115,115
+SAO GABRIEL DA PALHA,Suspeito,F,Encerrado,1230,0,1230
+SAO GABRIEL DA PALHA,Suspeito,M,Em Aberto,69,69,69
+SAO GABRIEL DA PALHA,Suspeito,M,Encerrado,1031,0,1031
+SAO GABRIEL DA PALHA,Síndrome Gripal não Especificada,F,Encerrado,200,0,200
+SAO GABRIEL DA PALHA,Síndrome Gripal não Especificada,M,Encerrado,174,0,174
+SAO JOSE DO CALCADO,Confirmados,F,Em Aberto,100,100,100
+SAO JOSE DO CALCADO,Confirmados,F,Encerrado,2093,0,2041
+SAO JOSE DO CALCADO,Confirmados,M,Em Aberto,61,61,61
+SAO JOSE DO CALCADO,Confirmados,M,Encerrado,1538,0,1498
+SAO JOSE DO CALCADO,Descartados,F,Em Aberto,243,243,243
+SAO JOSE DO CALCADO,Descartados,F,Encerrado,6822,0,6814
+SAO JOSE DO CALCADO,Descartados,M,Em Aberto,138,138,138
+SAO JOSE DO CALCADO,Descartados,M,Encerrado,4903,0,4894
+SAO JOSE DO CALCADO,Suspeito,F,Em Aberto,163,163,163
+SAO JOSE DO CALCADO,Suspeito,F,Encerrado,13,0,13
+SAO JOSE DO CALCADO,Suspeito,M,Em Aberto,108,108,108
+SAO JOSE DO CALCADO,Suspeito,M,Encerrado,10,0,10
+SAO JOSE DO CALCADO,Síndrome Gripal não Especificada,F,Encerrado,1,0,1
+SAO MATEUS,Confirmados,F,Em Aberto,24,24,24
+SAO MATEUS,Confirmados,F,Encerrado,23173,0,23003
+SAO MATEUS,Confirmados,I,Encerrado,10,0,10
+SAO MATEUS,Confirmados,M,Em Aberto,16,16,16
+SAO MATEUS,Confirmados,M,Encerrado,17495,0,17264
+SAO MATEUS,Descartados,F,Em Aberto,581,581,581
+SAO MATEUS,Descartados,F,Encerrado,61685,0,61598
+SAO MATEUS,Descartados,I,Encerrado,33,0,33
+SAO MATEUS,Descartados,M,Em Aberto,380,380,380
+SAO MATEUS,Descartados,M,Encerrado,41290,0,41193
+SAO MATEUS,Suspeito,F,Em Aberto,2386,2386,2386
+SAO MATEUS,Suspeito,F,Encerrado,9222,0,9219
+SAO MATEUS,Suspeito,I,Em Aberto,1,1,1
+SAO MATEUS,Suspeito,I,Encerrado,2,0,2
+SAO MATEUS,Suspeito,M,Em Aberto,1506,1506,1506
+SAO MATEUS,Suspeito,M,Encerrado,7504,0,7501
+SAO MATEUS,Síndrome Gripal não Especificada,F,Em Aberto,4,4,4
+SAO MATEUS,Síndrome Gripal não Especificada,F,Encerrado,5345,0,5343
+SAO MATEUS,Síndrome Gripal não Especificada,I,Encerrado,1,0,1
+SAO MATEUS,Síndrome Gripal não Especificada,M,Em Aberto,9,9,9
+SAO MATEUS,Síndrome Gripal não Especificada,M,Encerrado,4091,0,4091
+SAO ROQUE DO CANAA,Confirmados,F,Em Aberto,13,13,13
+SAO ROQUE DO CANAA,Confirmados,F,Encerrado,3042,0,3034
+SAO ROQUE DO CANAA,Confirmados,M,Em Aberto,6,6,6
+SAO ROQUE DO CANAA,Confirmados,M,Encerrado,2460,0,2444
+SAO ROQUE DO CANAA,Descartados,F,Em Aberto,51,51,49
+SAO ROQUE DO CANAA,Descartados,F,Encerrado,7352,0,7347
+SAO ROQUE DO CANAA,Descartados,M,Em Aberto,54,54,54
+SAO ROQUE DO CANAA,Descartados,M,Encerrado,6010,0,6005
+SAO ROQUE DO CANAA,Suspeito,F,Em Aberto,16,16,16
+SAO ROQUE DO CANAA,Suspeito,F,Encerrado,208,0,208
+SAO ROQUE DO CANAA,Suspeito,M,Em Aberto,14,14,14
+SAO ROQUE DO CANAA,Suspeito,M,Encerrado,190,0,190
+SAO ROQUE DO CANAA,Síndrome Gripal não Especificada,F,Encerrado,11,0,11
+SAO ROQUE DO CANAA,Síndrome Gripal não Especificada,M,Encerrado,5,0,5
+SERRA,Confirmados,F,Em Aberto,5,5,5
+SERRA,Confirmados,F,Encerrado,86902,0,86047
+SERRA,Confirmados,I,Encerrado,51,0,51
+SERRA,Confirmados,M,Em Aberto,8,8,8
+SERRA,Confirmados,M,Encerrado,71941,0,70909
+SERRA,Descartados,F,Em Aberto,993,993,993
+SERRA,Descartados,F,Encerrado,265382,0,264863
+SERRA,Descartados,I,Encerrado,156,0,156
+SERRA,Descartados,M,Em Aberto,866,866,865
+SERRA,Descartados,M,Encerrado,238022,0,237454
+SERRA,Suspeito,F,Em Aberto,6530,6530,6530
+SERRA,Suspeito,F,Encerrado,15928,0,15924
+SERRA,Suspeito,I,Em Aberto,11,11,11
+SERRA,Suspeito,I,Encerrado,28,0,28
+SERRA,Suspeito,M,Em Aberto,5182,5182,5182
+SERRA,Suspeito,M,Encerrado,12798,0,12793
+SERRA,Síndrome Gripal não Especificada,F,Em Aberto,1,1,1
+SERRA,Síndrome Gripal não Especificada,F,Encerrado,6477,0,6474
+SERRA,Síndrome Gripal não Especificada,I,Encerrado,2,0,2
+SERRA,Síndrome Gripal não Especificada,M,Encerrado,4584,0,4582
+SOORETAMA,Confirmados,F,Em Aberto,1,1,1
+SOORETAMA,Confirmados,F,Encerrado,5404,0,5364
+SOORETAMA,Confirmados,M,Em Aberto,1,1,1
+SOORETAMA,Confirmados,M,Encerrado,4148,0,4113
+SOORETAMA,Descartados,F,Em Aberto,4,4,4
+SOORETAMA,Descartados,F,Encerrado,10900,0,10893
+SOORETAMA,Descartados,I,Encerrado,3,0,3
+SOORETAMA,Descartados,M,Em Aberto,2,2,2
+SOORETAMA,Descartados,M,Encerrado,8500,0,8487
+SOORETAMA,Suspeito,F,Em Aberto,3,3,3
+SOORETAMA,Suspeito,F,Encerrado,488,0,487
+SOORETAMA,Suspeito,M,Em Aberto,1,1,1
+SOORETAMA,Suspeito,M,Encerrado,431,0,430
+SOORETAMA,Síndrome Gripal não Especificada,F,Encerrado,715,0,715
+SOORETAMA,Síndrome Gripal não Especificada,M,Encerrado,602,0,602
+VARGEM ALTA,Confirmados,F,Em Aberto,20,20,20
+VARGEM ALTA,Confirmados,F,Encerrado,3625,0,3595
+VARGEM ALTA,Confirmados,I,Encerrado,1,0,1
+VARGEM ALTA,Confirmados,M,Em Aberto,14,14,14
+VARGEM ALTA,Confirmados,M,Encerrado,2844,0,2818
+VARGEM ALTA,Descartados,F,Em Aberto,29,29,29
+VARGEM ALTA,Descartados,F,Encerrado,7179,0,7163
+VARGEM ALTA,Descartados,I,Encerrado,1,0,1
+VARGEM ALTA,Descartados,M,Em Aberto,19,19,19
+VARGEM ALTA,Descartados,M,Encerrado,5054,0,5039
+VARGEM ALTA,Suspeito,F,Em Aberto,22,22,22
+VARGEM ALTA,Suspeito,F,Encerrado,850,0,850
+VARGEM ALTA,Suspeito,I,Encerrado,1,0,1
+VARGEM ALTA,Suspeito,M,Em Aberto,11,11,11
+VARGEM ALTA,Suspeito,M,Encerrado,809,0,809
+VARGEM ALTA,Síndrome Gripal não Especificada,F,Encerrado,323,0,323
+VARGEM ALTA,Síndrome Gripal não Especificada,M,Encerrado,272,0,272
+VENDA NOVA DO IMIGRANTE,Confirmados,F,Em Aberto,6,6,6
+VENDA NOVA DO IMIGRANTE,Confirmados,F,Encerrado,6039,0,6008
+VENDA NOVA DO IMIGRANTE,Confirmados,M,Em Aberto,7,7,7
+VENDA NOVA DO IMIGRANTE,Confirmados,M,Encerrado,4412,0,4379
+VENDA NOVA DO IMIGRANTE,Descartados,F,Em Aberto,4,4,4
+VENDA NOVA DO IMIGRANTE,Descartados,F,Encerrado,12787,0,12778
+VENDA NOVA DO IMIGRANTE,Descartados,I,Encerrado,1,0,1
+VENDA NOVA DO IMIGRANTE,Descartados,M,Em Aberto,2,2,2
+VENDA NOVA DO IMIGRANTE,Descartados,M,Encerrado,8527,0,8518
+VENDA NOVA DO IMIGRANTE,Suspeito,F,Em Aberto,5,5,5
+VENDA NOVA DO IMIGRANTE,Suspeito,F,Encerrado,3,0,3
+VENDA NOVA DO IMIGRANTE,Suspeito,M,Em Aberto,1,1,1
+VENDA NOVA DO IMIGRANTE,Suspeito,M,Encerrado,3,0,3
+VENDA NOVA DO IMIGRANTE,Síndrome Gripal não Especificada,F,Encerrado,798,0,798
+VENDA NOVA DO IMIGRANTE,Síndrome Gripal não Especificada,M,Em Aberto,1,1,1
+VENDA NOVA DO IMIGRANTE,Síndrome Gripal não Especificada,M,Encerrado,611,0,611
+VIANA,Confirmados,F,Em Aberto,16,16,16
+VIANA,Confirmados,F,Encerrado,13573,0,13415
+VIANA,Confirmados,I,Encerrado,4,0,4
+VIANA,Confirmados,M,Em Aberto,19,19,19
+VIANA,Confirmados,M,Encerrado,10195,0,10020
+VIANA,Descartados,F,Em Aberto,9,9,9
+VIANA,Descartados,F,Encerrado,30319,0,30240
+VIANA,Descartados,I,Encerrado,5,0,5
+VIANA,Descartados,M,Em Aberto,6,6,6
+VIANA,Descartados,M,Encerrado,23786,0,23688
+VIANA,Suspeito,F,Em Aberto,661,661,661
+VIANA,Suspeito,F,Encerrado,4443,0,4443
+VIANA,Suspeito,I,Encerrado,1,0,1
+VIANA,Suspeito,M,Em Aberto,621,621,621
+VIANA,Suspeito,M,Encerrado,3464,0,3462
+VIANA,Síndrome Gripal não Especificada,F,Em Aberto,5,5,5
+VIANA,Síndrome Gripal não Especificada,F,Encerrado,146,0,144
+VIANA,Síndrome Gripal não Especificada,M,Em Aberto,5,5,5
+VIANA,Síndrome Gripal não Especificada,M,Encerrado,76,0,76
+VILA PAVAO,Confirmados,F,Em Aberto,1,1,1
+VILA PAVAO,Confirmados,F,Encerrado,1827,0,1814
+VILA PAVAO,Confirmados,M,Encerrado,1459,0,1450
+VILA PAVAO,Descartados,F,Em Aberto,36,36,36
+VILA PAVAO,Descartados,F,Encerrado,4470,0,4466
+VILA PAVAO,Descartados,M,Em Aberto,30,30,30
+VILA PAVAO,Descartados,M,Encerrado,3293,0,3289
+VILA PAVAO,Suspeito,F,Encerrado,17,0,17
+VILA PAVAO,Suspeito,M,Encerrado,29,0,28
+VILA PAVAO,Síndrome Gripal não Especificada,F,Encerrado,9,0,9
+VILA PAVAO,Síndrome Gripal não Especificada,M,Encerrado,8,0,8
+VILA VALERIO,Confirmados,F,Em Aberto,37,37,37
+VILA VALERIO,Confirmados,F,Encerrado,3794,0,3780
+VILA VALERIO,Confirmados,M,Em Aberto,34,34,34
+VILA VALERIO,Confirmados,M,Encerrado,3002,0,2977
+VILA VALERIO,Descartados,F,Em Aberto,160,160,160
+VILA VALERIO,Descartados,F,Encerrado,3810,0,3805
+VILA VALERIO,Descartados,M,Em Aberto,134,134,134
+VILA VALERIO,Descartados,M,Encerrado,2838,0,2834
+VILA VALERIO,Suspeito,F,Em Aberto,32,32,32
+VILA VALERIO,Suspeito,F,Encerrado,41,0,41
+VILA VALERIO,Suspeito,M,Em Aberto,23,23,23
+VILA VALERIO,Suspeito,M,Encerrado,32,0,32
+VILA VALERIO,Síndrome Gripal não Especificada,F,Em Aberto,16,16,16
+VILA VALERIO,Síndrome Gripal não Especificada,F,Encerrado,1891,0,1888
+VILA VALERIO,Síndrome Gripal não Especificada,M,Em Aberto,4,4,4
+VILA VALERIO,Síndrome Gripal não Especificada,M,Encerrado,1418,0,1417
+VILA VELHA,Confirmados,F,Em Aberto,5,5,5
+VILA VELHA,Confirmados,F,Encerrado,91198,0,90211
+VILA VELHA,Confirmados,I,Encerrado,49,0,49
+VILA VELHA,Confirmados,M,Em Aberto,6,6,6
+VILA VELHA,Confirmados,M,Encerrado,66378,0,65215
+VILA VELHA,Descartados,F,Em Aberto,20,20,20
+VILA VELHA,Descartados,F,Encerrado,212859,0,212404
+VILA VELHA,Descartados,I,Encerrado,64,0,64
+VILA VELHA,Descartados,M,Em Aberto,12,12,12
+VILA VELHA,Descartados,M,Encerrado,160946,0,160421
+VILA VELHA,Suspeito,F,Em Aberto,2395,2395,2395
+VILA VELHA,Suspeito,F,Encerrado,19589,0,19589
+VILA VELHA,Suspeito,I,Em Aberto,3,3,3
+VILA VELHA,Suspeito,I,Encerrado,16,0,16
+VILA VELHA,Suspeito,M,Em Aberto,2025,2025,2025
+VILA VELHA,Suspeito,M,Encerrado,15599,0,15598
+VILA VELHA,Síndrome Gripal não Especificada,F,Em Aberto,1,1,1
+VILA VELHA,Síndrome Gripal não Especificada,F,Encerrado,6445,0,6441
+VILA VELHA,Síndrome Gripal não Especificada,I,Encerrado,4,0,3
+VILA VELHA,Síndrome Gripal não Especificada,M,Em Aberto,4,4,4
+VILA VELHA,Síndrome Gripal não Especificada,M,Encerrado,4950,0,4947
+VITORIA,Confirmados,F,Em Aberto,16,16,16
+VITORIA,Confirmados,F,Encerrado,94724,0,94031
+VITORIA,Confirmados,I,Encerrado,19,0,19
+VITORIA,Confirmados,M,Em Aberto,7,7,7
+VITORIA,Confirmados,M,Encerrado,67360,0,66531
+VITORIA,Descartados,F,Em Aberto,11,11,11
+VITORIA,Descartados,F,Encerrado,226875,0,226491
+VITORIA,Descartados,I,Encerrado,65,0,65
+VITORIA,Descartados,M,Em Aberto,28,28,26
+VITORIA,Descartados,M,Encerrado,172425,0,171995
+VITORIA,Suspeito,F,Em Aberto,15747,15747,15746
+VITORIA,Suspeito,F,Encerrado,22823,0,22822
+VITORIA,Suspeito,I,Em Aberto,4,4,4
+VITORIA,Suspeito,I,Encerrado,5,0,5
+VITORIA,Suspeito,M,Em Aberto,10975,10975,10975
+VITORIA,Suspeito,M,Encerrado,15278,0,15275
+VITORIA,Síndrome Gripal não Especificada,F,Em Aberto,2,2,2
+VITORIA,Síndrome Gripal não Especificada,F,Encerrado,18310,0,18309
+VITORIA,Síndrome Gripal não Especificada,M,Encerrado,11351,0,11351
