@@ -1,5 +1,7 @@
 # 📊 Painel Interativo COVID-19 - Espírito Santo (BI)
 
+🌍 **Confira o resultado do deploy do projeto clicando no link:** [https://painel-covid-es.streamlit.app/](https://painel-covid-es.streamlit.app/)
+
 Este projeto foi desenvolvido para a disciplina de **Business Intelligence (BI)**. O objetivo é aplicar técnicas de análise exploratória de dados (EDA) e visualização interativa utilizando os microdados reais de COVID-19 do estado do Espírito Santo, transformando dados brutos em informações para tomada de decisão.
 
 O pipeline do projeto está dividido em três frentes principais:
@@ -45,7 +47,7 @@ O pipeline do projeto está dividido em três frentes principais:
 ### 1. Clonar o repositório
 ```bash
 git clone https://github.com/J-Emanoel/painel-covid-es.git
-cd seu-painel-covid-es
+cd painel-covid-es
 ```
 
 ### 2. Instalar as dependências
