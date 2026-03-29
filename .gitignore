@@ -22,6 +22,7 @@ venv.bak/
 data/MICRODADOS.csv
 MICRODADOS.csv
 *.csv
+!data/dados_agregados.csv
 
 # Outros
 .DS_Store
