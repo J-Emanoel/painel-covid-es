@@ -47,7 +47,6 @@ O pipeline do projeto está dividido em três frentes principais:
 ### 1. Clonar o repositório
 ```bash
 git clone https://github.com/J-Emanoel/painel-covid-es.git
-cd painel-covid-es
 ```
 
 ### 2. Instalar as dependências
